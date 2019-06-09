@@ -1,0 +1,1482 @@
+1557473884611	mozrunner::runner	INFO	Running command: "/home/manishkumar_zed/firefox/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.TL3PnyhDOmIB"
+XPCOMGlueLoad error for file /home/manishkumar_zed/firefox/libmozgtk.so:
+libgtk-3.so.0: cannot open shared object file: No such file or directory
+Couldn't load XPCOM.
+1557473922323	mozrunner::runner	INFO	Running command: "/home/manishkumar_zed/firefox/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.pCf0igfTrO2s"
+XPCOMGlueLoad error for file /home/manishkumar_zed/firefox/libmozgtk.so:
+libgtk-3.so.0: cannot open shared object file: No such file or directory
+Couldn't load XPCOM.
+1557477710548	mozrunner::runner	INFO	Running command: "/home/manishkumar_zed/firefox/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ZDt9Zzt8cdSd"
+XPCOMGlueLoad error for file /home/manishkumar_zed/firefox/libmozgtk.so:
+libgtk-3.so.0: cannot open shared object file: No such file or directory
+Couldn't load XPCOM.
+1557477899413	mozrunner::runner	INFO	Running command: "/home/manishkumar_zed/firefox/firefox" "-marionette" "-headless" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.RZs0jzXv7nJB"
+XPCOMGlueLoad error for file /home/manishkumar_zed/firefox/libmozgtk.so:
+libgtk-3.so.0: cannot open shared object file: No such file or directory
+Couldn't load XPCOM.
+1557478014797	mozrunner::runner	INFO	Running command: "/home/manishkumar_zed/firefox/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.muUPXXfu80AC"
+XPCOMGlueLoad error for file /home/manishkumar_zed/firefox/libmozgtk.so:
+libgtk-3.so.0: cannot open shared object file: No such file or directory
+Couldn't load XPCOM.
+1557478171559	mozrunner::runner	INFO	Running command: "/home/manishkumar_zed/firefox/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.GOFrSZCE6k4o"
+XPCOMGlueLoad error for file /home/manishkumar_zed/firefox/libmozgtk.so:
+libgtk-3.so.0: cannot open shared object file: No such file or directory
+Couldn't load XPCOM.
+1557479319704	mozrunner::runner	INFO	Running command: "/home/manishkumar_zed/firefox/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.TqN01G8M4wb8"
+XPCOMGlueLoad error for file /home/manishkumar_zed/firefox/libmozgtk.so:
+libgtk-3.so.0: cannot open shared object file: No such file or directory
+Couldn't load XPCOM.
+1557479990071	mozrunner::runner	INFO	Running command: "/home/manishkumar_zed/firefox/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.sB9aJWcp4dIh"
+XPCOMGlueLoad error for file /home/manishkumar_zed/firefox/libmozgtk.so:
+libgtk-3.so.0: cannot open shared object file: No such file or directory
+Couldn't load XPCOM.
+1557480427295	mozrunner::runner	INFO	Running command: "/home/manishkumar_zed/firefox/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Ob6E1NEh9tJX"
+XPCOMGlueLoad error for file /home/manishkumar_zed/firefox/libmozgtk.so:
+libgtk-3.so.0: cannot open shared object file: No such file or directory
+Couldn't load XPCOM.
+1557480557815	mozrunner::runner	INFO	Running command: "/home/manishkumar_zed/firefox/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.4UFdPDLCmqsN"
+XPCOMGlueLoad error for file /home/manishkumar_zed/firefox/libmozgtk.so:
+libgtk-3.so.0: cannot open shared object file: No such file or directory
+Couldn't load XPCOM.
+1557480806424	mozrunner::runner	INFO	Running command: "/home/manishkumar_zed/firefox/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.UD6IzT0bhp9I"
+XPCOMGlueLoad error for file /home/manishkumar_zed/firefox/libmozgtk.so:
+libgtk-3.so.0: cannot open shared object file: No such file or directory
+Couldn't load XPCOM.
+1557481147424	mozrunner::runner	INFO	Running command: "/home/manishkumar_zed/firefox/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.BPALYrCaNEEG"
+XPCOMGlueLoad error for file /home/manishkumar_zed/firefox/libmozgtk.so:
+libgtk-3.so.0: cannot open shared object file: No such file or directory
+Couldn't load XPCOM.
+1557481281625	mozrunner::runner	INFO	Running command: "/home/manishkumar_zed/firefox/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.3tKT0mZsH06F"
+XPCOMGlueLoad error for file /home/manishkumar_zed/firefox/libmozgtk.so:
+libgtk-3.so.0: cannot open shared object file: No such file or directory
+Couldn't load XPCOM.
+1557482166674	mozrunner::runner	INFO	Running command: "/home/manishkumar_zed/firefox/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.POU6vVWBvKbi"
+XPCOMGlueLoad error for file /home/manishkumar_zed/firefox/libmozgtk.so:
+libgtk-3.so.0: cannot open shared object file: No such file or directory
+Couldn't load XPCOM.
+1557482585921	mozrunner::runner	INFO	Running command: "/home/manishkumar_zed/firefox/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.AuZ7lacYADXF"
+XPCOMGlueLoad error for file /home/manishkumar_zed/firefox/libmozgtk.so:
+libgtk-3.so.0: cannot open shared object file: No such file or directory
+Couldn't load XPCOM.
+1557482674424	mozrunner::runner	INFO	Running command: "/home/manishkumar_zed/firefox/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.qKiqZFVu1lhI"
+XPCOMGlueLoad error for file /home/manishkumar_zed/firefox/libmozgtk.so:
+libgtk-3.so.0: cannot open shared object file: No such file or directory
+Couldn't load XPCOM.
+1557484586642	mozrunner::runner	INFO	Running command: "/home/manishkumar_zed/firefox/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.cQ92h2L5mPMr"
+*** You are running in headless mode.
+1557484587199	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557484587199	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557484587199	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557484588827	Marionette	INFO	Listening on port 37093
+1557484588863	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1557484638574	mozrunner::runner	INFO	Running command: "/home/manishkumar_zed/firefox/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.2PKiUdFYJJZ5"
+*** You are running in headless mode.
+1557484638962	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557484638962	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557484638962	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557484640517	Marionette	INFO	Listening on port 38283
+1557484640580	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1557484663691	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+openRemotePrompt@jar:file:///home/manishkumar_zed/firefox/omni.ja!/components/nsPrompter.js:507:5
+openPrompt@jar:file:///home/manishkumar_zed/firefox/omni.ja!/components/nsPrompter.js:541:17
+confirm@jar:file:///home/manishkumar_zed/firefox/omni.ja!/components/nsPrompter.js:646:9
+@https://imgbp.salonboard.com/KLP/js/KPCL021V01.js?switch=20190509:34:13
+dispatch@https://imgbp.salonboard.com/KLP/js/common/jquery-1.10.2.min.js:4:14077
+add/v.handle@https://imgbp.salonboard.com/KLP/js/common/jquery-1.10.2.min.js:4:10849
+event.synthesizeMouseAtPoint@chrome://marionette/content/event.js:202:5
+webdriverClickElement@chrome://marionette/content/interaction.js:183:5
+1557484670505	Marionette	INFO	Stopped listening on port 38283
+JavaScript error: https://imgbp.salonboard.com/KLP/js/common/require.js?switch=20190509, line 163: Error: Script error for: KPCL060V01
+http://requirejs.org/docs/errors.html#scripterror
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3500A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3500A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3500A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+1557485449746	mozrunner::runner	INFO	Running command: "/home/manishkumar_zed/firefox/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.IaS6qxRqDDil"
+*** You are running in headless mode.
+1557485450187	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557485450188	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557485450188	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557485451779	Marionette	INFO	Listening on port 33887
+1557485451856	Marionette	WARN	TLS certificate errors will be ignored for this session
+1557485468337	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+1557485468604	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+1557485468702	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1557485473138	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+1557485473403	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+1557485473462	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+1557485477847	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+1557485478116	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+1557485478151	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+1557485488644	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+openRemotePrompt@jar:file:///home/manishkumar_zed/firefox/omni.ja!/components/nsPrompter.js:507:5
+openPrompt@jar:file:///home/manishkumar_zed/firefox/omni.ja!/components/nsPrompter.js:541:17
+confirm@jar:file:///home/manishkumar_zed/firefox/omni.ja!/components/nsPrompter.js:646:9
+@https://imgbp.salonboard.com/KLP/js/KPCL020V01.js?switch=20190509:37:13
+dispatch@https://imgbp.salonboard.com/KLP/js/common/jquery-1.10.2.min.js:4:14077
+add/v.handle@https://imgbp.salonboard.com/KLP/js/common/jquery-1.10.2.min.js:4:10849
+event.synthesizeMouseAtPoint@chrome://marionette/content/event.js:202:5
+webdriverClickElement@chrome://marionette/content/interaction.js:183:5
+1557485593383	Marionette	INFO	Stopped listening on port 33887
+1557489117738	mozrunner::runner	INFO	Running command: "/home/manishkumar_zed/firefox/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ssp0sjrzNTfZ"
+*** You are running in headless mode.
+1557489118343	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557489118344	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557489118344	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557489119854	Marionette	INFO	Listening on port 42085
+1557489119959	Marionette	WARN	TLS certificate errors will be ignored for this session
+1557489135890	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+1557489136162	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+1557489136284	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1557489140721	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+1557489140988	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+1557489141042	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+1557489145395	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+1557489145658	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+1557489145691	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+1557489156188	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+openRemotePrompt@jar:file:///home/manishkumar_zed/firefox/omni.ja!/components/nsPrompter.js:507:5
+openPrompt@jar:file:///home/manishkumar_zed/firefox/omni.ja!/components/nsPrompter.js:541:17
+confirm@jar:file:///home/manishkumar_zed/firefox/omni.ja!/components/nsPrompter.js:646:9
+@https://imgbp.salonboard.com/KLP/js/KPCL020V01.js?switch=20190509:37:13
+dispatch@https://imgbp.salonboard.com/KLP/js/common/jquery-1.10.2.min.js:4:14077
+add/v.handle@https://imgbp.salonboard.com/KLP/js/common/jquery-1.10.2.min.js:4:10849
+event.synthesizeMouseAtPoint@chrome://marionette/content/event.js:202:5
+webdriverClickElement@chrome://marionette/content/interaction.js:183:5
+1557489161265	Marionette	INFO	Stopped listening on port 42085
+1557489235546	mozrunner::runner	INFO	Running command: "/home/manishkumar_zed/firefox/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.mnt3Oac71uV0"
+*** You are running in headless mode.
+1557489235965	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557489235966	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557489235966	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557489237462	Marionette	INFO	Listening on port 44497
+1557489237469	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1557489258485	Marionette	INFO	Stopped listening on port 44497
+1557489284071	mozrunner::runner	INFO	Running command: "/home/manishkumar_zed/firefox/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.onibcwWoAvXD"
+*** You are running in headless mode.
+1557489284457	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557489284457	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557489284457	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557489285950	Marionette	INFO	Listening on port 36155
+1557489285988	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1557489318138	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+openRemotePrompt@jar:file:///home/manishkumar_zed/firefox/omni.ja!/components/nsPrompter.js:507:5
+openPrompt@jar:file:///home/manishkumar_zed/firefox/omni.ja!/components/nsPrompter.js:541:17
+confirm@jar:file:///home/manishkumar_zed/firefox/omni.ja!/components/nsPrompter.js:646:9
+@https://imgbp.salonboard.com/KLP/js/KPCL020V01.js?switch=20190509:37:13
+dispatch@https://imgbp.salonboard.com/KLP/js/common/jquery-1.10.2.min.js:4:14077
+add/v.handle@https://imgbp.salonboard.com/KLP/js/common/jquery-1.10.2.min.js:4:10849
+event.synthesizeMouseAtPoint@chrome://marionette/content/event.js:202:5
+webdriverClickElement@chrome://marionette/content/interaction.js:183:5
+1557489324916	Marionette	INFO	Stopped listening on port 36155
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 477: NS_ERROR_ILLEGAL_VALUE
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 477: NS_ERROR_ILLEGAL_VALUE
+1557489364894	mozrunner::runner	INFO	Running command: "/home/manishkumar_zed/firefox/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.0UYXnQbXeVGY"
+*** You are running in headless mode.
+1557489365437	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557489365437	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557489365437	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557489366987	Marionette	INFO	Listening on port 34053
+1557489367020	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1557489394757	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+openRemotePrompt@jar:file:///home/manishkumar_zed/firefox/omni.ja!/components/nsPrompter.js:507:5
+openPrompt@jar:file:///home/manishkumar_zed/firefox/omni.ja!/components/nsPrompter.js:541:17
+confirm@jar:file:///home/manishkumar_zed/firefox/omni.ja!/components/nsPrompter.js:646:9
+@https://imgbp.salonboard.com/KLP/js/KPCL020V01.js?switch=20190509:37:13
+dispatch@https://imgbp.salonboard.com/KLP/js/common/jquery-1.10.2.min.js:4:14077
+add/v.handle@https://imgbp.salonboard.com/KLP/js/common/jquery-1.10.2.min.js:4:10849
+event.synthesizeMouseAtPoint@chrome://marionette/content/event.js:202:5
+webdriverClickElement@chrome://marionette/content/interaction.js:183:5
+1557489401544	Marionette	INFO	Stopped listening on port 34053
+1557490645300	mozrunner::runner	INFO	Running command: "/home/manishkumar_zed/firefox/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.pkMAJnfW1v90"
+*** You are running in headless mode.
+1557490645703	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557490645703	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557490645703	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557490647256	Marionette	INFO	Listening on port 42403
+1557490647306	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1557490677519	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+openRemotePrompt@jar:file:///home/manishkumar_zed/firefox/omni.ja!/components/nsPrompter.js:507:5
+openPrompt@jar:file:///home/manishkumar_zed/firefox/omni.ja!/components/nsPrompter.js:541:17
+confirm@jar:file:///home/manishkumar_zed/firefox/omni.ja!/components/nsPrompter.js:646:9
+@https://imgbp.salonboard.com/KLP/js/KPCL020V01.js?switch=20190509:37:13
+dispatch@https://imgbp.salonboard.com/KLP/js/common/jquery-1.10.2.min.js:4:14077
+add/v.handle@https://imgbp.salonboard.com/KLP/js/common/jquery-1.10.2.min.js:4:10849
+event.synthesizeMouseAtPoint@chrome://marionette/content/event.js:202:5
+webdriverClickElement@chrome://marionette/content/interaction.js:183:5
+1557490684302	Marionette	INFO	Stopped listening on port 42403
+1557490686282	mozrunner::runner	INFO	Running command: "/home/manishkumar_zed/firefox/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Cr111OPT2NpJ"
+*** You are running in headless mode.
+1557490686699	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557490686700	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557490686700	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557490688233	Marionette	INFO	Listening on port 38749
+1557490688289	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1557490718139	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+openRemotePrompt@jar:file:///home/manishkumar_zed/firefox/omni.ja!/components/nsPrompter.js:507:5
+openPrompt@jar:file:///home/manishkumar_zed/firefox/omni.ja!/components/nsPrompter.js:541:17
+confirm@jar:file:///home/manishkumar_zed/firefox/omni.ja!/components/nsPrompter.js:646:9
+@https://imgbp.salonboard.com/KLP/js/KPCL020V01.js?switch=20190509:37:13
+dispatch@https://imgbp.salonboard.com/KLP/js/common/jquery-1.10.2.min.js:4:14077
+add/v.handle@https://imgbp.salonboard.com/KLP/js/common/jquery-1.10.2.min.js:4:10849
+event.synthesizeMouseAtPoint@chrome://marionette/content/event.js:202:5
+webdriverClickElement@chrome://marionette/content/interaction.js:183:5
+1557490724908	Marionette	INFO	Stopped listening on port 38749
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x52000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1557490726886	mozrunner::runner	INFO	Running command: "/home/manishkumar_zed/firefox/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.z3aDksQ3MyS1"
+*** You are running in headless mode.
+1557490727283	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557490727283	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557490727283	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557490728856	Marionette	INFO	Listening on port 46305
+1557490728898	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1557490759872	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+openRemotePrompt@jar:file:///home/manishkumar_zed/firefox/omni.ja!/components/nsPrompter.js:507:5
+openPrompt@jar:file:///home/manishkumar_zed/firefox/omni.ja!/components/nsPrompter.js:541:17
+confirm@jar:file:///home/manishkumar_zed/firefox/omni.ja!/components/nsPrompter.js:646:9
+@https://imgbp.salonboard.com/KLP/js/KPCL020V01.js?switch=20190509:37:13
+dispatch@https://imgbp.salonboard.com/KLP/js/common/jquery-1.10.2.min.js:4:14077
+add/v.handle@https://imgbp.salonboard.com/KLP/js/common/jquery-1.10.2.min.js:4:10849
+event.synthesizeMouseAtPoint@chrome://marionette/content/event.js:202:5
+webdriverClickElement@chrome://marionette/content/interaction.js:183:5
+1557490766644	Marionette	INFO	Stopped listening on port 46305
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x52000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1557490834891	mozrunner::runner	INFO	Running command: "/home/manishkumar_zed/firefox/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ezFU1RfsrVta"
+*** You are running in headless mode.
+1557490835438	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557490835439	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557490835439	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557490836878	Marionette	INFO	Listening on port 33761
+1557490836908	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 14606, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 14565, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 14546, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+1557491676025	mozrunner::runner	INFO	Running command: "/home/manishkumar_zed/firefox/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.K1cdLemhUHJu"
+*** You are running in headless mode.
+1557491676456	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557491676456	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557491676456	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557491678080	Marionette	INFO	Listening on port 45641
+1557491678147	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 14948, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 14898, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 14879, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+1557491974817	mozrunner::runner	INFO	Running command: "/home/manishkumar_zed/firefox/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.58h9fsZzXYhp"
+*** You are running in headless mode.
+1557491975220	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557491975220	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557491975220	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557491976825	Marionette	INFO	Listening on port 46211
+1557491976930	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 15116, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 15097, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+Sandbox: Unexpected EOF, op 0 flags 00 path /usr/share/locale/en_US.UTF-8/LC_MESSAGES/libc.mo
+[Child 15164, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+1557492048955	mozrunner::runner	INFO	Running command: "/home/manishkumar_zed/firefox/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.u3SWhtGwedIH"
+*** You are running in headless mode.
+1557492049352	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557492049352	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557492049352	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557492050960	Marionette	INFO	Listening on port 46063
+1557492050970	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 15328, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 15278, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 15259, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+1557492200547	mozrunner::runner	INFO	Running command: "/home/manishkumar_zed/firefox/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ph3i434qhm4n"
+*** You are running in headless mode.
+1557492200944	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557492200944	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557492200944	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557492202492	Marionette	INFO	Listening on port 44469
+1557492202555	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 15511, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 15467, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 15448, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+1557492928291	mozrunner::runner	INFO	Running command: "/home/manishkumar_zed/firefox/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.GVLIhJ7l6fHd"
+*** You are running in headless mode.
+1557492928697	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557492928697	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557492928697	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557492930192	Marionette	INFO	Listening on port 42037
+1557492930199	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1557492963409	mozrunner::runner	INFO	Running command: "/home/manishkumar_zed/firefox/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.PWWDASGwCYF2"
+*** You are running in headless mode.
+1557492963956	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557492963956	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557492963956	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557492965748	Marionette	INFO	Listening on port 33995
+1557492965809	Marionette	WARN	TLS certificate errors will be ignored for this session
+1557492966125	Marionette	INFO	Stopped listening on port 33995
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 834: Error: Connection is not open.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 15777, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 15736, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 15717, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+1557493324505	mozrunner::runner	INFO	Running command: "/home/manishkumar_zed/firefox/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.KwfYRISNI69b"
+*** You are running in headless mode.
+1557493324949	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557493324949	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557493324949	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557493326543	Marionette	INFO	Listening on port 34333
+1557493326614	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 16204, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 16154, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 16135, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+1557493381806	mozrunner::runner	INFO	Running command: "/home/manishkumar_zed/firefox/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.3UnJeTwoVFB0"
+*** You are running in headless mode.
+1557493382216	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557493382216	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557493382216	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557493383832	Marionette	INFO	Listening on port 33885
+1557493383916	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1557493429929	mozrunner::runner	INFO	Running command: "/home/manishkumar_zed/firefox/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.yZx633BMcdwu"
+*** You are running in headless mode.
+1557493430448	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557493430448	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557493430448	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557493432065	Marionette	INFO	Listening on port 35161
+1557493432117	Marionette	WARN	TLS certificate errors will be ignored for this session
+1557493432426	Marionette	INFO	Stopped listening on port 35161
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 834: Error: Connection is not open.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 16365, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 16314, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 16295, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+1557493692092	mozrunner::runner	INFO	Running command: "/home/manishkumar_zed/firefox/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.51kcmhkyGTbb"
+*** You are running in headless mode.
+1557493692532	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557493692532	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557493692532	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557493694123	Marionette	INFO	Listening on port 38113
+1557493694206	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://jp.api.capy.me/avatar/get_js/?k=YUaWAbbwCkxsMWo1JzJRZmdudD3Ydn, line 1: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://jp.api.capy.me/avatar/get_js/?k=YUaWAbbwCkxsMWo1JzJRZmdudD3Ydn, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://jp.api.capy.me/avatar/get_js/?k=YUaWAbbwCkxsMWo1JzJRZmdudD3Ydn, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://jp.api.capy.me/avatar/get_js/?k=YUaWAbbwCkxsMWo1JzJRZmdudD3Ydn, line 1: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://jp.api.capy.me/avatar/get_js/?k=YUaWAbbwCkxsMWo1JzJRZmdudD3Ydn, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://jp.api.capy.me/avatar/get_js/?k=YUaWAbbwCkxsMWo1JzJRZmdudD3Ydn, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+JavaScript error: https://jp.api.capy.me/avatar/get_js/?k=YUaWAbbwCkxsMWo1JzJRZmdudD3Ydn, line 1: NetworkError: A network error occurred.
+JavaScript error: https://jp.api.capy.me/avatar/get_js/?k=YUaWAbbwCkxsMWo1JzJRZmdudD3Ydn, line 1: TypeError: _0xd043x54 is null
+1557494026791	mozrunner::runner	INFO	Running command: "/home/manishkumar_zed/firefox/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.8qFuB37Gu6qi"
+*** You are running in headless mode.
+1557494027192	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557494027192	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557494027192	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557494028770	Marionette	INFO	Listening on port 44609
+1557494028811	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://jp.api.capy.me/avatar/get_js/?k=YUaWAbbwCkxsMWo1JzJRZmdudD3Ydn, line 1: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://jp.api.capy.me/avatar/get_js/?k=YUaWAbbwCkxsMWo1JzJRZmdudD3Ydn, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://jp.api.capy.me/avatar/get_js/?k=YUaWAbbwCkxsMWo1JzJRZmdudD3Ydn, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://jp.api.capy.me/avatar/get_js/?k=YUaWAbbwCkxsMWo1JzJRZmdudD3Ydn, line 1: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://jp.api.capy.me/avatar/get_js/?k=YUaWAbbwCkxsMWo1JzJRZmdudD3Ydn, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://jp.api.capy.me/avatar/get_js/?k=YUaWAbbwCkxsMWo1JzJRZmdudD3Ydn, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x240016,name=PCameras::Msg_AllDone) Channel error: cannot send/recv
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 16981, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 16933, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 16914, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+1557494472807	mozrunner::runner	INFO	Running command: "/home/manishkumar_zed/firefox/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.VThs5EBxNBx2"
+*** You are running in headless mode.
+1557494473339	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557494473339	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557494473339	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557494475133	Marionette	INFO	Listening on port 38871
+1557494475219	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://jp.api.capy.me/avatar/get_js/?k=YUaWAbbwCkxsMWo1JzJRZmdudD3Ydn, line 1: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://jp.api.capy.me/avatar/get_js/?k=YUaWAbbwCkxsMWo1JzJRZmdudD3Ydn, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://jp.api.capy.me/avatar/get_js/?k=YUaWAbbwCkxsMWo1JzJRZmdudD3Ydn, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://jp.api.capy.me/avatar/get_js/?k=YUaWAbbwCkxsMWo1JzJRZmdudD3Ydn, line 1: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://jp.api.capy.me/avatar/get_js/?k=YUaWAbbwCkxsMWo1JzJRZmdudD3Ydn, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://jp.api.capy.me/avatar/get_js/?k=YUaWAbbwCkxsMWo1JzJRZmdudD3Ydn, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1557494614930	mozrunner::runner	INFO	Running command: "/home/manishkumar_zed/firefox/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.djcPxBoP8eRl"
+*** You are running in headless mode.
+1557494615365	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557494615366	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557494615366	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557494617292	Marionette	INFO	Listening on port 37213
+1557494617348	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://jp.api.capy.me/avatar/get_js/?k=YUaWAbbwCkxsMWo1JzJRZmdudD3Ydn, line 1: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://jp.api.capy.me/avatar/get_js/?k=YUaWAbbwCkxsMWo1JzJRZmdudD3Ydn, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://jp.api.capy.me/avatar/get_js/?k=YUaWAbbwCkxsMWo1JzJRZmdudD3Ydn, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://jp.api.capy.me/avatar/get_js/?k=YUaWAbbwCkxsMWo1JzJRZmdudD3Ydn, line 1: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://jp.api.capy.me/avatar/get_js/?k=YUaWAbbwCkxsMWo1JzJRZmdudD3Ydn, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://jp.api.capy.me/avatar/get_js/?k=YUaWAbbwCkxsMWo1JzJRZmdudD3Ydn, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x240016,name=PCameras::Msg_AllDone) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x240016,name=PCameras::Msg_AllDone) Channel error: cannot send/recv
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 17223, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 17180, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 17161, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 17419, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 17366, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 17348, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+1557494721570	mozrunner::runner	INFO	Running command: "/home/manishkumar_zed/firefox/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.aKyMnitapDGi"
+*** You are running in headless mode.
+1557494721998	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557494721998	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557494721999	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557494723649	Marionette	INFO	Listening on port 37357
+1557494723690	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://jp.api.capy.me/avatar/get_js/?k=YUaWAbbwCkxsMWo1JzJRZmdudD3Ydn, line 1: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://jp.api.capy.me/avatar/get_js/?k=YUaWAbbwCkxsMWo1JzJRZmdudD3Ydn, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://jp.api.capy.me/avatar/get_js/?k=YUaWAbbwCkxsMWo1JzJRZmdudD3Ydn, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://jp.api.capy.me/avatar/get_js/?k=YUaWAbbwCkxsMWo1JzJRZmdudD3Ydn, line 1: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://jp.api.capy.me/avatar/get_js/?k=YUaWAbbwCkxsMWo1JzJRZmdudD3Ydn, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://jp.api.capy.me/avatar/get_js/?k=YUaWAbbwCkxsMWo1JzJRZmdudD3Ydn, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x240016,name=PCameras::Msg_AllDone) Channel error: cannot send/recv
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 17614, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 17563, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 17544, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+1557494876779	mozrunner::runner	INFO	Running command: "/home/manishkumar_zed/firefox/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.gVgztlckRNUc"
+*** You are running in headless mode.
+1557494877202	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557494877203	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557494877203	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557494878896	Marionette	INFO	Listening on port 43681
+1557494878986	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://jp.api.capy.me/avatar/get_js/?k=YUaWAbbwCkxsMWo1JzJRZmdudD3Ydn, line 1: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://jp.api.capy.me/avatar/get_js/?k=YUaWAbbwCkxsMWo1JzJRZmdudD3Ydn, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://jp.api.capy.me/avatar/get_js/?k=YUaWAbbwCkxsMWo1JzJRZmdudD3Ydn, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://jp.api.capy.me/avatar/get_js/?k=YUaWAbbwCkxsMWo1JzJRZmdudD3Ydn, line 1: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://jp.api.capy.me/avatar/get_js/?k=YUaWAbbwCkxsMWo1JzJRZmdudD3Ydn, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://jp.api.capy.me/avatar/get_js/?k=YUaWAbbwCkxsMWo1JzJRZmdudD3Ydn, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+JavaScript error: https://jp.api.capy.me/avatar/get_js/?k=YUaWAbbwCkxsMWo1JzJRZmdudD3Ydn, line 1: NetworkError: A network error occurred.
+JavaScript error: https://jp.api.capy.me/avatar/get_js/?k=YUaWAbbwCkxsMWo1JzJRZmdudD3Ydn, line 1: TypeError: _0xd043x54 is null
+1557495559784	mozrunner::runner	INFO	Running command: "/home/manishkumar_zed/firefox/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.eSAiQJDJ00km"
+*** You are running in headless mode.
+1557495560213	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557495560213	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557495560213	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557495561872	Marionette	INFO	Listening on port 35985
+1557495561891	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://jp.api.capy.me/avatar/get_js/?k=YUaWAbbwCkxsMWo1JzJRZmdudD3Ydn, line 1: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://jp.api.capy.me/avatar/get_js/?k=YUaWAbbwCkxsMWo1JzJRZmdudD3Ydn, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://jp.api.capy.me/avatar/get_js/?k=YUaWAbbwCkxsMWo1JzJRZmdudD3Ydn, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://jp.api.capy.me/avatar/get_js/?k=YUaWAbbwCkxsMWo1JzJRZmdudD3Ydn, line 1: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://jp.api.capy.me/avatar/get_js/?k=YUaWAbbwCkxsMWo1JzJRZmdudD3Ydn, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://jp.api.capy.me/avatar/get_js/?k=YUaWAbbwCkxsMWo1JzJRZmdudD3Ydn, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+JavaScript error: https://jp.api.capy.me/avatar/get_js/?k=YUaWAbbwCkxsMWo1JzJRZmdudD3Ydn, line 1: NetworkError: A network error occurred.
+JavaScript error: https://jp.api.capy.me/avatar/get_js/?k=YUaWAbbwCkxsMWo1JzJRZmdudD3Ydn, line 1: TypeError: _0xd043x54 is null
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1557722151126	mozrunner::runner	INFO	Running command: "/home/manishkumar_zed/firefox/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.WiCddoLx9FHA"
+*** You are running in headless mode.
+1557722153718	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557722153719	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557722153719	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557722157782	Marionette	INFO	Listening on port 40801
+1557722157877	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1557722186470	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+openRemotePrompt@jar:file:///home/manishkumar_zed/firefox/omni.ja!/components/nsPrompter.js:507:5
+openPrompt@jar:file:///home/manishkumar_zed/firefox/omni.ja!/components/nsPrompter.js:541:17
+confirm@jar:file:///home/manishkumar_zed/firefox/omni.ja!/components/nsPrompter.js:646:9
+@https://imgbp.salonboard.com/KLP/js/KPCL020V01.js?switch=20190509:37:13
+dispatch@https://imgbp.salonboard.com/KLP/js/common/jquery-1.10.2.min.js:4:14077
+add/v.handle@https://imgbp.salonboard.com/KLP/js/common/jquery-1.10.2.min.js:4:10849
+event.synthesizeMouseAtPoint@chrome://marionette/content/event.js:202:5
+webdriverClickElement@chrome://marionette/content/interaction.js:183:5
+1557722193468	Marionette	INFO	Stopped listening on port 40801
+1557726438524	mozrunner::runner	INFO	Running command: "/home/manishkumar_zed/firefox/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.d5YeOb5nBTEB"
+*** You are running in headless mode.
+1557726441161	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557726441162	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557726441162	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557726444378	Marionette	INFO	Listening on port 46233
+1557726444451	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1557726464690	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+1557726464963	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+1557726465011	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+1557726476219	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+openRemotePrompt@jar:file:///home/manishkumar_zed/firefox/omni.ja!/components/nsPrompter.js:507:5
+openPrompt@jar:file:///home/manishkumar_zed/firefox/omni.ja!/components/nsPrompter.js:541:17
+confirm@jar:file:///home/manishkumar_zed/firefox/omni.ja!/components/nsPrompter.js:646:9
+@https://imgbp.salonboard.com/KLP/js/KPCL020V01.js?switch=20190509:37:13
+dispatch@https://imgbp.salonboard.com/KLP/js/common/jquery-1.10.2.min.js:4:14077
+add/v.handle@https://imgbp.salonboard.com/KLP/js/common/jquery-1.10.2.min.js:4:10849
+event.synthesizeMouseAtPoint@chrome://marionette/content/event.js:202:5
+webdriverClickElement@chrome://marionette/content/interaction.js:183:5
+1557726581264	Marionette	INFO	Stopped listening on port 46233
+1557726655927	mozrunner::runner	INFO	Running command: "/home/manishkumar_zed/firefox/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.KIAuGMZiLWhY"
+*** You are running in headless mode.
+1557726658109	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557726658109	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557726658110	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557726661107	Marionette	INFO	Listening on port 46325
+1557726661181	Marionette	WARN	TLS certificate errors will be ignored for this session
+1557726676973	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+1557726677236	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+1557726677297	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1557726688264	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+openRemotePrompt@jar:file:///home/manishkumar_zed/firefox/omni.ja!/components/nsPrompter.js:507:5
+openPrompt@jar:file:///home/manishkumar_zed/firefox/omni.ja!/components/nsPrompter.js:541:17
+confirm@jar:file:///home/manishkumar_zed/firefox/omni.ja!/components/nsPrompter.js:646:9
+@https://imgbp.salonboard.com/KLP/js/KPCL020V01.js?switch=20190509:37:13
+dispatch@https://imgbp.salonboard.com/KLP/js/common/jquery-1.10.2.min.js:4:14077
+add/v.handle@https://imgbp.salonboard.com/KLP/js/common/jquery-1.10.2.min.js:4:10849
+event.synthesizeMouseAtPoint@chrome://marionette/content/event.js:202:5
+webdriverClickElement@chrome://marionette/content/interaction.js:183:5
+1557726693413	Marionette	INFO	Stopped listening on port 46325
+1557727175304	mozrunner::runner	INFO	Running command: "/home/manishkumar_zed/firefox/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.et9yOwsPVFf9"
+*** You are running in headless mode.
+1557727177695	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557727177695	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557727177695	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557727180981	Marionette	INFO	Listening on port 37491
+1557727181043	Marionette	WARN	TLS certificate errors will be ignored for this session
+1557727196856	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+1557727197123	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+1557727197196	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1557727208889	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+openRemotePrompt@jar:file:///home/manishkumar_zed/firefox/omni.ja!/components/nsPrompter.js:507:5
+openPrompt@jar:file:///home/manishkumar_zed/firefox/omni.ja!/components/nsPrompter.js:541:17
+confirm@jar:file:///home/manishkumar_zed/firefox/omni.ja!/components/nsPrompter.js:646:9
+@https://imgbp.salonboard.com/KLP/js/KPCL020V01.js?switch=20190509:37:13
+dispatch@https://imgbp.salonboard.com/KLP/js/common/jquery-1.10.2.min.js:4:14077
+add/v.handle@https://imgbp.salonboard.com/KLP/js/common/jquery-1.10.2.min.js:4:10849
+event.synthesizeMouseAtPoint@chrome://marionette/content/event.js:202:5
+webdriverClickElement@chrome://marionette/content/interaction.js:183:5
+1557727214019	Marionette	INFO	Stopped listening on port 37491
+1557728576353	mozrunner::runner	INFO	Running command: "/home/manishkumar_zed/firefox/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.anVt5lf0Htrs"
+*** You are running in headless mode.
+1557728578822	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557728578822	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557728578822	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557728581979	Marionette	INFO	Listening on port 38683
+1557728582107	Marionette	WARN	TLS certificate errors will be ignored for this session
+1557728596312	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+1557728596575	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+1557728596630	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1557728610264	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+openRemotePrompt@jar:file:///home/manishkumar_zed/firefox/omni.ja!/components/nsPrompter.js:507:5
+openPrompt@jar:file:///home/manishkumar_zed/firefox/omni.ja!/components/nsPrompter.js:541:17
+confirm@jar:file:///home/manishkumar_zed/firefox/omni.ja!/components/nsPrompter.js:646:9
+@https://imgbp.salonboard.com/KLP/js/KPCL020V01.js?switch=20190509:37:13
+dispatch@https://imgbp.salonboard.com/KLP/js/common/jquery-1.10.2.min.js:4:14077
+add/v.handle@https://imgbp.salonboard.com/KLP/js/common/jquery-1.10.2.min.js:4:10849
+event.synthesizeMouseAtPoint@chrome://marionette/content/event.js:202:5
+webdriverClickElement@chrome://marionette/content/interaction.js:183:5
+1557728615461	Marionette	INFO	Stopped listening on port 38683
+1557728849117	mozrunner::runner	INFO	Running command: "/home/manishkumar_zed/firefox/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.DrK9OaAxCdkI"
+*** You are running in headless mode.
+1557728851729	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557728851730	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557728851730	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557728855067	Marionette	INFO	Listening on port 39947
+1557728855162	Marionette	WARN	TLS certificate errors will be ignored for this session
+1557728873931	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+1557728874202	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+1557728874244	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1557728992667	mozrunner::runner	INFO	Running command: "/home/manishkumar_zed/firefox/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.iTxPlhXkxesf"
+*** You are running in headless mode.
+1557728994429	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557728994429	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557728994429	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557728997100	Marionette	INFO	Listening on port 35045
+1557728997197	Marionette	WARN	TLS certificate errors will be ignored for this session
+1557729012632	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+1557729012902	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+1557729012948	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1557729024171	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+openRemotePrompt@jar:file:///home/manishkumar_zed/firefox/omni.ja!/components/nsPrompter.js:507:5
+openPrompt@jar:file:///home/manishkumar_zed/firefox/omni.ja!/components/nsPrompter.js:541:17
+confirm@jar:file:///home/manishkumar_zed/firefox/omni.ja!/components/nsPrompter.js:646:9
+@https://imgbp.salonboard.com/KLP/js/KPCL020V01.js?switch=20190509:37:13
+dispatch@https://imgbp.salonboard.com/KLP/js/common/jquery-1.10.2.min.js:4:14077
+add/v.handle@https://imgbp.salonboard.com/KLP/js/common/jquery-1.10.2.min.js:4:10849
+event.synthesizeMouseAtPoint@chrome://marionette/content/event.js:202:5
+webdriverClickElement@chrome://marionette/content/interaction.js:183:5
+1557729029401	Marionette	INFO	Stopped listening on port 35045
+1557729221682	mozrunner::runner	INFO	Running command: "/home/manishkumar_zed/firefox/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.etKLmB0Cmasq"
+*** You are running in headless mode.
+1557729224381	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557729224382	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557729224382	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557729227375	Marionette	INFO	Listening on port 33975
+1557729227425	Marionette	WARN	TLS certificate errors will be ignored for this session
+1557729244557	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+1557729244839	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+1557729244887	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+1557729247655	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1557729258862	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+openRemotePrompt@jar:file:///home/manishkumar_zed/firefox/omni.ja!/components/nsPrompter.js:507:5
+openPrompt@jar:file:///home/manishkumar_zed/firefox/omni.ja!/components/nsPrompter.js:541:17
+confirm@jar:file:///home/manishkumar_zed/firefox/omni.ja!/components/nsPrompter.js:646:9
+@https://imgbp.salonboard.com/KLP/js/KPCL020V01.js?switch=20190509:37:13
+dispatch@https://imgbp.salonboard.com/KLP/js/common/jquery-1.10.2.min.js:4:14077
+add/v.handle@https://imgbp.salonboard.com/KLP/js/common/jquery-1.10.2.min.js:4:10849
+event.synthesizeMouseAtPoint@chrome://marionette/content/event.js:202:5
+webdriverClickElement@chrome://marionette/content/interaction.js:183:5
+1557729263989	Marionette	INFO	Stopped listening on port 33975
+1557729370153	mozrunner::runner	INFO	Running command: "/home/manishkumar_zed/firefox/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.qzihAagcjORk"
+*** You are running in headless mode.
+1557729371582	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557729371583	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557729371583	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557729373905	Marionette	INFO	Listening on port 44205
+1557729373967	Marionette	WARN	TLS certificate errors will be ignored for this session
+1557729388162	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+1557729388438	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+1557729388473	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+1557729390153	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1557729401065	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+openRemotePrompt@jar:file:///home/manishkumar_zed/firefox/omni.ja!/components/nsPrompter.js:507:5
+openPrompt@jar:file:///home/manishkumar_zed/firefox/omni.ja!/components/nsPrompter.js:541:17
+confirm@jar:file:///home/manishkumar_zed/firefox/omni.ja!/components/nsPrompter.js:646:9
+@https://imgbp.salonboard.com/KLP/js/KPCL020V01.js?switch=20190509:37:13
+dispatch@https://imgbp.salonboard.com/KLP/js/common/jquery-1.10.2.min.js:4:14077
+add/v.handle@https://imgbp.salonboard.com/KLP/js/common/jquery-1.10.2.min.js:4:10849
+event.synthesizeMouseAtPoint@chrome://marionette/content/event.js:202:5
+webdriverClickElement@chrome://marionette/content/interaction.js:183:5
+1557729406238	Marionette	INFO	Stopped listening on port 44205
+1557729535086	mozrunner::runner	INFO	Running command: "/home/manishkumar_zed/firefox/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.1v23yhrF3bYV"
+*** You are running in headless mode.
+1557729536572	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557729536572	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557729536572	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557729539277	Marionette	INFO	Listening on port 33153
+1557729539347	Marionette	WARN	TLS certificate errors will be ignored for this session
+1557729557532	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+1557729557801	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+1557729557855	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1557729571890	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+openRemotePrompt@jar:file:///home/manishkumar_zed/firefox/omni.ja!/components/nsPrompter.js:507:5
+openPrompt@jar:file:///home/manishkumar_zed/firefox/omni.ja!/components/nsPrompter.js:541:17
+confirm@jar:file:///home/manishkumar_zed/firefox/omni.ja!/components/nsPrompter.js:646:9
+@https://imgbp.salonboard.com/KLP/js/KPCL020V01.js?switch=20190509:37:13
+dispatch@https://imgbp.salonboard.com/KLP/js/common/jquery-1.10.2.min.js:4:14077
+add/v.handle@https://imgbp.salonboard.com/KLP/js/common/jquery-1.10.2.min.js:4:10849
+event.synthesizeMouseAtPoint@chrome://marionette/content/event.js:202:5
+webdriverClickElement@chrome://marionette/content/interaction.js:183:5
+1557729577031	Marionette	INFO	Stopped listening on port 33153
+1557729601443	mozrunner::runner	INFO	Running command: "/home/manishkumar_zed/firefox/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.OAEOmCrT0ivG"
+*** You are running in headless mode.
+1557729602208	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557729602208	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557729602209	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557729604255	Marionette	INFO	Listening on port 35387
+1557729604355	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://jp.api.capy.me/avatar/get_js/?k=YUaWAbbwCkxsMWo1JzJRZmdudD3Ydn, line 1: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://jp.api.capy.me/avatar/get_js/?k=YUaWAbbwCkxsMWo1JzJRZmdudD3Ydn, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://jp.api.capy.me/avatar/get_js/?k=YUaWAbbwCkxsMWo1JzJRZmdudD3Ydn, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://jp.api.capy.me/avatar/get_js/?k=YUaWAbbwCkxsMWo1JzJRZmdudD3Ydn, line 1: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://jp.api.capy.me/avatar/get_js/?k=YUaWAbbwCkxsMWo1JzJRZmdudD3Ydn, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://jp.api.capy.me/avatar/get_js/?k=YUaWAbbwCkxsMWo1JzJRZmdudD3Ydn, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1557729749051	mozrunner::runner	INFO	Running command: "/home/manishkumar_zed/firefox/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.3cJr0PnCsHrk"
+*** You are running in headless mode.
+1557729750737	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557729750743	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557729750743	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[Child 8417, Chrome_ChildThread] WARNING: pipe error (50): Connection reset by peer: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+1557729826634	mozrunner::runner	INFO	Running command: "/home/manishkumar_zed/firefox/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.5DP6ey1Ougdv"
+*** You are running in headless mode.
+1557729827842	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557729827842	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557729827843	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557729830192	Marionette	INFO	Listening on port 33553
+1557729831134	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://jp.api.capy.me/avatar/get_js/?k=YUaWAbbwCkxsMWo1JzJRZmdudD3Ydn, line 1: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://jp.api.capy.me/avatar/get_js/?k=YUaWAbbwCkxsMWo1JzJRZmdudD3Ydn, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://jp.api.capy.me/avatar/get_js/?k=YUaWAbbwCkxsMWo1JzJRZmdudD3Ydn, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://jp.api.capy.me/avatar/get_js/?k=YUaWAbbwCkxsMWo1JzJRZmdudD3Ydn, line 1: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://jp.api.capy.me/avatar/get_js/?k=YUaWAbbwCkxsMWo1JzJRZmdudD3Ydn, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://jp.api.capy.me/avatar/get_js/?k=YUaWAbbwCkxsMWo1JzJRZmdudD3Ydn, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1557732414393	mozrunner::runner	INFO	Running command: "/home/manishkumar_zed/firefox/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.EJBPj2uUYgRv"
+*** You are running in headless mode.
+1557732416828	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557732416829	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557732416829	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557732420640	Marionette	INFO	Listening on port 40179
+1557732420739	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://jp.api.capy.me/avatar/get_js/?k=YUaWAbbwCkxsMWo1JzJRZmdudD3Ydn, line 1: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://jp.api.capy.me/avatar/get_js/?k=YUaWAbbwCkxsMWo1JzJRZmdudD3Ydn, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://jp.api.capy.me/avatar/get_js/?k=YUaWAbbwCkxsMWo1JzJRZmdudD3Ydn, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://jp.api.capy.me/avatar/get_js/?k=YUaWAbbwCkxsMWo1JzJRZmdudD3Ydn, line 1: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://jp.api.capy.me/avatar/get_js/?k=YUaWAbbwCkxsMWo1JzJRZmdudD3Ydn, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://jp.api.capy.me/avatar/get_js/?k=YUaWAbbwCkxsMWo1JzJRZmdudD3Ydn, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x240016,name=PCameras::Msg_AllDone) Channel error: cannot send/recv
+
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 9687, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+Exiting due to channel error.
+1557732624277	mozrunner::runner	INFO	Running command: "/home/manishkumar_zed/firefox/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.uZHmJWvA94bY"
+*** You are running in headless mode.
+1557732626154	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557732626154	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557732626155	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557732628874	Marionette	INFO	Listening on port 36315
+1557732628919	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://jp.api.capy.me/avatar/get_js/?k=YUaWAbbwCkxsMWo1JzJRZmdudD3Ydn, line 1: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://jp.api.capy.me/avatar/get_js/?k=YUaWAbbwCkxsMWo1JzJRZmdudD3Ydn, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://jp.api.capy.me/avatar/get_js/?k=YUaWAbbwCkxsMWo1JzJRZmdudD3Ydn, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://jp.api.capy.me/avatar/get_js/?k=YUaWAbbwCkxsMWo1JzJRZmdudD3Ydn, line 1: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://jp.api.capy.me/avatar/get_js/?k=YUaWAbbwCkxsMWo1JzJRZmdudD3Ydn, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://jp.api.capy.me/avatar/get_js/?k=YUaWAbbwCkxsMWo1JzJRZmdudD3Ydn, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x240016,name=PCameras::Msg_AllDone) Channel error: cannot send/recv
+
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1557744245700	mozrunner::runner	INFO	Running command: "/home/manishkumar_zed/firefox/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.71H74wI93Tsx"
+*** You are running in headless mode.
+1557744249111	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557744249112	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557744249112	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557744253016	Marionette	INFO	Listening on port 42325
+1557744253088	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1557744277778	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+JavaScript error: https://imgbp.salonboard.com/KLP/js/common/require.js?switch=20190509, line 163: Error: Script error for: jquery.ui.touch
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://imgbp.salonboard.com/KLP/js/common/require.js?switch=20190509, line 163: Error: Script error for: backbone
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://imgbp.salonboard.com/KLP/js/common/require.js?switch=20190509, line 163: Error: Script error for: jquery.easing
+http://requirejs.org/docs/errors.html#scripterror
+1557744337338	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+1557744337638	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+1557744338277	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+1557744340225	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+1557744366655	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+1557744384398	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+openRemotePrompt@jar:file:///home/manishkumar_zed/firefox/omni.ja!/components/nsPrompter.js:507:5
+openPrompt@jar:file:///home/manishkumar_zed/firefox/omni.ja!/components/nsPrompter.js:541:17
+confirm@jar:file:///home/manishkumar_zed/firefox/omni.ja!/components/nsPrompter.js:646:9
+@https://imgbp.salonboard.com/KLP/js/KPCL020V01.js?switch=20190509:37:13
+dispatch@https://imgbp.salonboard.com/KLP/js/common/jquery-1.10.2.min.js:4:14077
+add/v.handle@https://imgbp.salonboard.com/KLP/js/common/jquery-1.10.2.min.js:4:10849
+event.synthesizeMouseAtPoint@chrome://marionette/content/event.js:202:5
+webdriverClickElement@chrome://marionette/content/interaction.js:183:5
+1557744398024	Marionette	INFO	Stopped listening on port 42325
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+[Parent 18045, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1557809221505	mozrunner::runner	INFO	Running command: "/home/manishkumar_zed/firefox/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ziU9qq33lN4T"
+*** You are running in headless mode.
+1557809226056	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557809226056	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557809226056	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557809228877	Marionette	INFO	Listening on port 35063
+1557809228944	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1557809255532	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+openRemotePrompt@jar:file:///home/manishkumar_zed/firefox/omni.ja!/components/nsPrompter.js:507:5
+openPrompt@jar:file:///home/manishkumar_zed/firefox/omni.ja!/components/nsPrompter.js:541:17
+confirm@jar:file:///home/manishkumar_zed/firefox/omni.ja!/components/nsPrompter.js:646:9
+@https://imgbp.salonboard.com/KLP/js/KPCL021V01.js?switch=20190509:34:13
+dispatch@https://imgbp.salonboard.com/KLP/js/common/jquery-1.10.2.min.js:4:14077
+add/v.handle@https://imgbp.salonboard.com/KLP/js/common/jquery-1.10.2.min.js:4:10849
+event.synthesizeMouseAtPoint@chrome://marionette/content/event.js:202:5
+webdriverClickElement@chrome://marionette/content/interaction.js:183:5
+1557809262535	Marionette	INFO	Stopped listening on port 35063
+JavaScript error: https://imgbp.salonboard.com/KLP/js/common/require.js?switch=20190509, line 163: Error: Script error for: jquery.ui
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://imgbp.salonboard.com/KLP/js/common/require.js?switch=20190509, line 163: Error: Script error for: underscore
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://imgbp.salonboard.com/KLP/js/common/require.js?switch=20190509, line 163: Error: Script error for: json2
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://imgbp.salonboard.com/KLP/js/common/require.js?switch=20190509, line 163: Error: Script error for: moment
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://imgbp.salonboard.com/KLP/js/common/require.js?switch=20190509, line 163: Error: Script error for: jquery.cookie
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://imgbp.salonboard.com/KLP/js/common/require.js?switch=20190509, line 163: Error: Script error for: jquery.easing
+http://requirejs.org/docs/errors.html#scripterror
+[Parent 2072, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1557815486691	mozrunner::runner	INFO	Running command: "/home/manishkumar_zed/firefox/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.iVcRaMlXHKeq"
+*** You are running in headless mode.
+1557815487084	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557815487084	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557815487084	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557815488656	Marionette	INFO	Listening on port 46123
+1557815488704	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1557815519301	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:224:64
+openRemotePrompt@jar:file:///home/manishkumar_zed/firefox/omni.ja!/components/nsPrompter.js:507:5
+openPrompt@jar:file:///home/manishkumar_zed/firefox/omni.ja!/components/nsPrompter.js:541:17
+confirm@jar:file:///home/manishkumar_zed/firefox/omni.ja!/components/nsPrompter.js:646:9
+@https://imgbp.salonboard.com/KLP/js/KPCL020V01.js?switch=20190509:37:13
+dispatch@https://imgbp.salonboard.com/KLP/js/common/jquery-1.10.2.min.js:4:14077
+add/v.handle@https://imgbp.salonboard.com/KLP/js/common/jquery-1.10.2.min.js:4:10849
+event.synthesizeMouseAtPoint@chrome://marionette/content/event.js:202:5
+webdriverClickElement@chrome://marionette/content/interaction.js:183:5
+1557815526389	Marionette	INFO	Stopped listening on port 46123
+[Parent 3750, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1560076208726	mozrunner::runner	INFO	Running command: "/home/manishkumar_zed/firefox/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.vzDbqejuT24Y"
+*** You are running in headless mode.
+1560076213129	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560076213129	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560076213129	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560076216214	Marionette	INFO	Listening on port 39647
+1560076216292	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+

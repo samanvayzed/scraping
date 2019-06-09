@@ -1,0 +1,210 @@
+2019-05-10 06:54:28,258 - __main__ - INFO - Received Reservation Id (unBlock):7185
+2019-05-10 06:54:28,278 - salon_board_utility - INFO - Username found:b'CC21324'
+2019-05-10 06:54:28,279 - salon_board_utility - INFO - Password found:b'Majestic@2019'
+2019-05-10 06:56:25,439 - __main__ - INFO - Received Reservation Id (unBlock):7185
+2019-05-10 06:56:25,459 - salon_board_utility - INFO - Username found:b'CC21324'
+2019-05-10 06:56:25,459 - salon_board_utility - INFO - Password found:b'Majestic@2019'
+2019-05-10 07:02:24,992 - __main__ - INFO - Received Reservation Id (unBlock):7180
+2019-05-10 07:13:39,569 - __main__ - INFO - Received Reservation Id (unBlock):7180salon_board_delete_block.py
+2019-05-10 07:17:50,993 - __main__ - INFO - Received Reservation Id (unBlock):7185
+2019-05-10 07:17:51,020 - salon_board_utility - INFO - Username found:b'CC21324'
+2019-05-10 07:17:51,020 - salon_board_utility - INFO - Password found:b'Majestic@2019'
+2019-05-10 07:38:03,511 - __main__ - INFO - Received Reservation Id (unBlock):17876
+2019-05-10 07:38:41,290 - __main__ - INFO - Received Reservation Id (unBlock):7185
+2019-05-10 07:38:41,312 - salon_board_utility - INFO - Username found:b'CC21324'
+2019-05-10 07:38:41,312 - salon_board_utility - INFO - Password found:b'Majestic@2019'
+2019-05-10 08:41:49,514 - __main__ - INFO - Received Reservation Id (unBlock):7185
+2019-05-10 08:41:49,536 - salon_board_utility - INFO - Username found:b'CC21324'
+2019-05-10 08:41:49,536 - salon_board_utility - INFO - Password found:b'Majestic@2019'
+2019-05-10 08:44:58,380 - __main__ - INFO - Received Reservation Id (unBlock):7185
+2019-05-10 08:44:58,400 - salon_board_utility - INFO - Username found:b'CC21324'
+2019-05-10 08:44:58,400 - salon_board_utility - INFO - Password found:b'Majestic@2019'
+2019-05-10 08:46:53,764 - __main__ - INFO - Received Reservation Id (unBlock):7185
+2019-05-10 08:46:53,785 - salon_board_utility - INFO - Username found:b'CC21324'
+2019-05-10 08:46:53,785 - salon_board_utility - INFO - Password found:b'Majestic@2019'
+2019-05-10 08:49:30,526 - __main__ - INFO - Received Reservation Id (unBlock):7185
+2019-05-10 08:49:30,548 - salon_board_utility - INFO - Username found:b'CC21324'
+2019-05-10 08:49:30,548 - salon_board_utility - INFO - Password found:b'Majestic@2019'
+2019-05-10 09:08:38,669 - __main__ - INFO - Received Reservation Id (unBlock):7185
+2019-05-10 09:08:38,692 - salon_board_utility - INFO - Username found:b'CC21324'
+2019-05-10 09:08:38,692 - salon_board_utility - INFO - Password found:b'Majestic@2019'
+2019-05-10 09:19:49,036 - __main__ - INFO - Received Reservation Id (unBlock):7185
+2019-05-10 09:19:49,059 - salon_board_utility - INFO - Username found:b'CC21324'
+2019-05-10 09:19:49,059 - salon_board_utility - INFO - Password found:b'Majestic@2019'
+2019-05-10 09:27:06,264 - __main__ - INFO - Received Reservation Id (unBlock):7185
+2019-05-10 09:27:06,284 - salon_board_utility - INFO - Username found:b'CC21324'
+2019-05-10 09:27:06,284 - salon_board_utility - INFO - Password found:b'Majestic@2019'
+2019-05-10 09:29:16,781 - __main__ - INFO - Received Reservation Id (unBlock):7185
+2019-05-10 09:29:16,803 - salon_board_utility - INFO - Username found:b'CC21324'
+2019-05-10 09:29:16,803 - salon_board_utility - INFO - Password found:b'Majestic@2019'
+2019-05-10 10:37:17,542 - __main__ - INFO - Received Reservation Id (unBlock):7185
+2019-05-10 10:37:17,562 - salon_board_utility - INFO - Username found:b'CC21324'
+2019-05-10 10:37:17,562 - salon_board_utility - INFO - Password found:b'Majestic@2019'
+2019-05-10 10:37:20,724 - __main__ - INFO - Driver Initialized
+2019-05-10 10:37:25,934 - __main__ - INFO - Getting the login page
+2019-05-10 10:37:26,698 - __main__ - INFO - Clicked submit & trying to login
+2019-05-10 10:37:34,122 - __main__ - INFO - Unblocking Action activated for: bytearray(b'\xe5\xa4\xa7\xe5\x8e\x9f\xe3\x80\x80\xe3\x82\x81\xe3\x81\x90\xe3\x81\xbf') for date #20190610 , starting time 10:0 to end time 12:0
+2019-05-10 10:37:34,213 - __main__ - INFO - Delete Url formed https://salonboard.com/KLP/set/scheduleChange/?date=20190610&hour=10&minute=00&staffId=W000263987
+2019-05-10 10:37:34,491 - __main__ - INFO - Moved to delete url: https://salonboard.com/KLP/set/scheduleChange/?date=20190610&hour=10&minute=00&staffId=W000263987
+2019-05-10 10:37:50,233 - __main__ - INFO - Reservation Id ('7185',) unblocked successfully
+2019-05-10 11:53:54,514 - __main__ - INFO - Received Reservation Id (unBlock):7185
+2019-05-10 11:53:54,534 - salon_board_utility - INFO - Username found:b'CC21324'
+2019-05-10 11:53:54,534 - salon_board_utility - INFO - Password found:b'Majestic@2019'
+2019-05-10 11:53:57,569 - __main__ - INFO - Driver Initialized
+2019-05-10 11:54:05,796 - __main__ - INFO - Getting the login page
+2019-05-10 11:54:06,584 - __main__ - INFO - Clicked submit & trying to login
+2019-05-10 11:54:14,016 - __main__ - INFO - Unblocking Action activated for: bytearray(b'\xe5\xa4\xa7\xe5\x8e\x9f\xe3\x80\x80\xe3\x82\x81\xe3\x81\x90\xe3\x81\xbf') for date #20190610 , starting time 10:0 to end time 12:0
+2019-05-10 11:54:14,093 - __main__ - INFO - Delete Url formed https://salonboard.com/KLP/set/scheduleChange/?date=20190610&hour=10&minute=00&staffId=W000263987
+2019-05-10 11:54:14,237 - __main__ - INFO - Moved to delete url: https://salonboard.com/KLP/set/scheduleChange/?date=20190610&hour=10&minute=00&staffId=W000263987
+2019-05-10 11:54:18,248 - __main__ - INFO - Reservation Id 7185 unblocking Failed
+2019-05-10 11:54:18,249 - __main__ - INFO - Failure reason Url https://salonboard.com/KLP/set/scheduleChange/?date=20190610&hour=10&minute=00&staffId=W000263987 doesnt look valid url for unblocking
+2019-05-10 11:54:43,035 - __main__ - INFO - Received Reservation Id (block staff for holiday):7185
+2019-05-10 11:54:43,059 - salon_board_utility - INFO - Username found:b'CC21324'
+2019-05-10 11:54:43,059 - salon_board_utility - INFO - Password found:b'Majestic@2019'
+2019-05-10 11:54:43,060 - __main__ - INFO - Got salon board data like password, username etc from datastore
+2019-05-10 11:54:58,349 - __main__ - INFO - Fetched Login URL, trying to login...
+2019-05-10 11:54:59,083 - __main__ - INFO - Logged Into Salon Board
+2019-05-10 11:55:06,743 - __main__ - INFO - Applying Holiday for 1 employee(s)
+2019-05-10 11:55:06,767 - __main__ - INFO - Staff holiday  Url formed https://salonboard.com/KLP/reserve/ext/extReserveRegist/?staffId=W000263987&date=20190610&rsvHour=10&rsvMinute=00
+2019-05-10 11:55:06,768 - __main__ - INFO - Marking Holiday for: 大原　めぐみ for date #20190610 , starting time 10:0 to end time 12:0
+2019-05-10 11:55:24,681 - __main__ - INFO - Reservation Id 7185 holiday marked successfully for employee id 49
+2019-05-10 11:56:03,286 - __main__ - INFO - Received Reservation Id (block staff for holiday):7181
+2019-05-10 11:56:03,880 - salon_board_utility - INFO - Username found:b'CC21324'
+2019-05-10 11:56:03,881 - salon_board_utility - INFO - Password found:b'Majestic@2019'
+2019-05-10 11:56:03,882 - __main__ - INFO - Got salon board data like password, username etc from datastore
+2019-05-10 11:56:15,363 - __main__ - INFO - Fetched Login URL, trying to login...
+2019-05-10 11:56:16,031 - __main__ - INFO - Logged Into Salon Board
+2019-05-10 11:56:23,553 - __main__ - INFO - Applying Holiday for 1 employee(s)
+2019-05-10 11:56:23,571 - __main__ - INFO - Staff holiday  Url formed https://salonboard.com/KLP/reserve/ext/extReserveRegist/?staffId=W000358181&date=20190616&rsvHour=10&rsvMinute=00
+2019-05-10 11:56:23,574 - __main__ - INFO - Marking Holiday for: 森山　もえ for date #20190616 , starting time 0:0 to end time 0:0
+2019-05-10 11:56:41,305 - __main__ - INFO - Reservation Id 7181 holiday marked successfully for employee id 55
+2019-05-10 12:17:24,267 - __main__ - INFO - Received Reservation Id (block staff for holiday):7186
+2019-05-10 12:17:24,287 - salon_board_utility - INFO - Username found:b'CC21324'
+2019-05-10 12:17:24,288 - salon_board_utility - INFO - Password found:b'Majestic@2019'
+2019-05-10 12:17:24,289 - __main__ - INFO - Got salon board data like password, username etc from datastore
+2019-05-10 12:17:37,721 - __main__ - INFO - Fetched Login URL, trying to login...
+2019-05-10 12:17:38,554 - __main__ - INFO - Logged Into Salon Board
+2019-05-10 12:17:46,122 - __main__ - INFO - Applying Holiday for 1 employee(s)
+2019-05-10 12:17:46,142 - __main__ - INFO - Staff holiday  Url formed https://salonboard.com/KLP/reserve/ext/extReserveRegist/?staffId=W000263987&date=20190514&rsvHour=10&rsvMinute=00
+2019-05-10 12:17:46,142 - __main__ - INFO - Marking Holiday for: 大原　めぐみ for date #20190514 , starting time 11:0 to end time 12:30
+2019-05-10 12:18:04,060 - __main__ - INFO - Reservation Id 7186 holiday marked successfully for employee id 49
+2019-05-10 12:18:05,247 - __main__ - INFO - Received Reservation Id (block staff for holiday):7186
+2019-05-10 12:18:05,268 - salon_board_utility - INFO - Username found:b'CC21324'
+2019-05-10 12:18:05,269 - salon_board_utility - INFO - Password found:b'Majestic@2019'
+2019-05-10 12:18:05,270 - __main__ - INFO - Got salon board data like password, username etc from datastore
+2019-05-10 12:18:18,373 - __main__ - INFO - Fetched Login URL, trying to login...
+2019-05-10 12:18:19,247 - __main__ - INFO - Logged Into Salon Board
+2019-05-10 12:18:26,743 - __main__ - INFO - Applying Holiday for 1 employee(s)
+2019-05-10 12:18:26,761 - __main__ - INFO - Staff holiday  Url formed https://salonboard.com/KLP/reserve/ext/extReserveRegist/?staffId=W000263987&date=20190514&rsvHour=10&rsvMinute=00
+2019-05-10 12:18:26,761 - __main__ - INFO - Marking Holiday for: 大原　めぐみ for date #20190514 , starting time 11:0 to end time 12:30
+2019-05-10 12:18:44,674 - __main__ - INFO - Reservation Id 7186 holiday marked successfully for employee id 49
+2019-05-10 12:18:45,851 - __main__ - INFO - Received Reservation Id (block staff for holiday):7186
+2019-05-10 12:18:45,873 - salon_board_utility - INFO - Username found:b'CC21324'
+2019-05-10 12:18:45,873 - salon_board_utility - INFO - Password found:b'Majestic@2019'
+2019-05-10 12:18:45,874 - __main__ - INFO - Got salon board data like password, username etc from datastore
+2019-05-10 12:19:00,044 - __main__ - INFO - Fetched Login URL, trying to login...
+2019-05-10 12:19:00,842 - __main__ - INFO - Logged Into Salon Board
+2019-05-10 12:19:08,415 - __main__ - INFO - Applying Holiday for 1 employee(s)
+2019-05-10 12:19:08,434 - __main__ - INFO - Staff holiday  Url formed https://salonboard.com/KLP/reserve/ext/extReserveRegist/?staffId=W000263987&date=20190514&rsvHour=10&rsvMinute=00
+2019-05-10 12:19:08,434 - __main__ - INFO - Marking Holiday for: 大原　めぐみ for date #20190514 , starting time 11:0 to end time 12:30
+2019-05-10 12:19:26,409 - __main__ - INFO - Reservation Id 7186 holiday marked successfully for employee id 49
+2019-05-10 12:20:33,858 - __main__ - INFO - Received Reservation Id (block staff for holiday):7186
+2019-05-10 12:20:33,879 - salon_board_utility - INFO - Username found:b'CC21324'
+2019-05-10 12:20:33,879 - salon_board_utility - INFO - Password found:b'Majestic@2019'
+2019-05-10 12:20:33,880 - __main__ - INFO - Got salon board data like password, username etc from datastore
+2019-05-10 12:20:46,143 - __main__ - INFO - Fetched Login URL, trying to login...
+2019-05-10 12:20:46,915 - __main__ - INFO - Logged Into Salon Board
+2019-05-10 12:20:54,454 - __main__ - INFO - Applying Holiday for 1 employee(s)
+2019-05-10 12:20:54,479 - __main__ - INFO - Staff holiday  Url formed https://salonboard.com/KLP/reserve/ext/extReserveRegist/?staffId=W000263987&date=20190514&rsvHour=10&rsvMinute=00
+2019-05-10 12:20:54,479 - __main__ - INFO - Marking Holiday for: 大原　めぐみ for date #20190514 , starting time 11:0 to end time 12:30
+2019-05-10 12:34:34,991 - __main__ - INFO - Received Reservation Id (block staff for holiday):id
+2019-05-10 12:34:35,012 - __main__ - INFO - Got salon board data like password, username etc from datastore
+2019-05-10 12:34:49,371 - __main__ - INFO - Fetched Login URL, trying to login...
+2019-05-10 12:39:33,786 - __main__ - INFO - Received Reservation Id (block staff for holiday):id
+2019-05-10 12:39:33,805 - __main__ - INFO - Got salon board data like password, username etc from datastore
+2019-05-10 12:39:47,243 - __main__ - INFO - Fetched Login URL, trying to login...
+2019-05-10 12:40:47,922 - __main__ - INFO - Received Reservation Id (block staff for holiday):id
+2019-05-10 12:40:47,943 - __main__ - INFO - Got salon board data like password, username etc from datastore
+2019-05-10 12:41:02,392 - __main__ - INFO - Fetched Login URL, trying to login...
+2019-05-10 12:43:19,519 - __main__ - INFO - Received Reservation Id (block staff for holiday):id
+2019-05-10 12:43:19,537 - __main__ - INFO - Got salon board data like password, username etc from datastore
+2019-05-10 12:43:33,654 - __main__ - INFO - Fetched Login URL, trying to login...
+2019-05-10 12:55:27,264 - __main__ - INFO - Received Reservation Id (block staff for holiday):id
+2019-05-10 12:55:27,280 - __main__ - INFO - Got salon board data like password, username etc from datastore
+2019-05-10 12:55:38,444 - __main__ - INFO - Fetched Login URL, trying to login...
+2019-05-10 12:56:02,370 - __main__ - INFO - Received Reservation Id (unBlock):id
+2019-05-10 12:56:05,877 - __main__ - INFO - Driver Initialized
+2019-05-10 12:56:06,122 - __main__ - INFO - Reservation Id id unblocking Failed. Failure reason: username or password for login not found
+2019-05-10 13:03:00,775 - __main__ - INFO - Received Reservation Id (block staff for holiday):id
+2019-05-10 13:03:00,793 - __main__ - INFO - Got salon board data like password, username etc from datastore
+2019-05-10 13:03:10,242 - __main__ - INFO - Fetched Login URL, trying to login...
+2019-05-10 13:03:48,900 - __main__ - INFO - Received Reservation Id (unBlock):id
+2019-05-10 13:03:52,183 - __main__ - INFO - Driver Initialized
+2019-05-10 13:03:52,423 - __main__ - INFO - Reservation Id id unblocking Failed. Failure reason: username or password for login not found
+2019-05-10 13:21:11,768 - __main__ - INFO - Received Reservation Id (block staff for holiday):7181
+2019-05-10 13:21:11,793 - salon_board_utility - INFO - Username found:b'CC21324'
+2019-05-10 13:21:11,793 - salon_board_utility - INFO - Password found:b'Majestic@2019'
+2019-05-10 13:21:11,794 - __main__ - INFO - Got salon board data like password, username etc from datastore
+2019-05-10 13:21:20,387 - __main__ - INFO - Fetched Login URL, trying to login...
+2019-05-10 13:21:21,431 - __main__ - INFO - Logged Into Salon Board
+2019-05-10 13:23:33,896 - __main__ - INFO - Received Reservation Id (block staff for holiday):7181
+2019-05-10 13:23:33,916 - salon_board_utility - INFO - Username found:b'CC21324'
+2019-05-10 13:23:33,917 - salon_board_utility - INFO - Password found:b'Majestic@2019'
+2019-05-10 13:23:33,917 - __main__ - INFO - Got salon board data like password, username etc from datastore
+2019-05-10 13:23:45,762 - __main__ - INFO - Fetched Login URL, trying to login...
+2019-05-10 13:23:46,630 - __main__ - INFO - Logged Into Salon Board
+2019-05-13 04:35:49,992 - __main__ - INFO - Received Reservation Id (block staff for holiday):7185
+2019-05-13 04:35:50,026 - salon_board_utility - INFO - Username found:b'CC21324'
+2019-05-13 04:35:50,026 - salon_board_utility - INFO - Password found:b'Majestic@2019'
+2019-05-13 04:35:50,027 - __main__ - INFO - Got salon board data like password, username etc from datastore
+2019-05-13 04:36:05,803 - __main__ - INFO - Fetched Login URL, trying to login...
+2019-05-13 04:36:06,860 - __main__ - INFO - Logged Into Salon Board
+2019-05-13 04:36:14,543 - __main__ - INFO - Applying Holiday for 1 employee(s)
+2019-05-13 04:36:14,617 - __main__ - INFO - Staff holiday  Url formed https://salonboard.com/KLP/reserve/ext/extReserveRegist/?staffId=W000263987&date=20190610&rsvHour=10&rsvMinute=00
+2019-05-13 04:36:14,618 - __main__ - INFO - Marking Holiday for: 大原　めぐみ for date #20190610 , starting time 10:0 to end time 12:0
+2019-05-13 04:36:33,056 - __main__ - INFO - Reservation Id 7185 holiday marked successfully for employee id 49
+2019-05-13 06:40:01,369 - __main__ - INFO - Received Reservation Id (block staff for holiday):7185
+2019-05-13 06:40:01,403 - salon_board_utility - INFO - Username found:b'CC21324'
+2019-05-13 06:40:01,403 - salon_board_utility - INFO - Password found:b'Majestic@2019'
+2019-05-13 06:40:01,404 - __main__ - INFO - Got salon board data like password, username etc from datastore
+2019-05-13 06:40:17,010 - __main__ - INFO - Fetched Login URL, trying to login...
+2019-05-13 06:40:18,162 - __main__ - INFO - Logged Into Salon Board
+2019-05-13 06:42:27,978 - __main__ - INFO - Received Reservation Id (block staff for holiday):7185
+2019-05-13 06:42:28,002 - salon_board_utility - INFO - Username found:b'CC21324'
+2019-05-13 06:42:28,002 - salon_board_utility - INFO - Password found:b'Majestic@2019'
+2019-05-13 06:42:28,003 - __main__ - INFO - Got salon board data like password, username etc from datastore
+2019-05-13 06:43:45,569 - __main__ - INFO - Received Reservation Id (unBlock):7185
+2019-05-13 06:43:45,592 - salon_board_utility - INFO - Username found:b'CC21324'
+2019-05-13 06:43:45,592 - salon_board_utility - INFO - Password found:b'Majestic@2019'
+2019-05-13 06:43:51,243 - __main__ - INFO - Driver Initialized
+2019-05-13 06:43:55,614 - __main__ - INFO - Getting the login page
+2019-05-13 06:43:56,549 - __main__ - INFO - Clicked submit & trying to login
+2019-05-13 07:26:53,268 - __main__ - INFO - Received Reservation Id (block staff for holiday):7185
+2019-05-13 07:26:53,296 - salon_board_utility - INFO - Username found:b'CC21324'
+2019-05-13 07:26:53,296 - salon_board_utility - INFO - Password found:b'Majestic@2019'
+2019-05-13 07:26:53,297 - __main__ - INFO - Got salon board data like password, username etc from datastore
+2019-05-13 07:27:07,676 - __main__ - INFO - Fetched Login URL, trying to login...
+2019-05-13 07:27:09,012 - __main__ - INFO - Logged Into Salon Board
+2019-05-14 04:47:00,348 - __main__ - INFO - Received Reservation Id (unBlock):7185
+2019-05-14 04:47:00,406 - salon_board_utility - INFO - Username found:b'CC21324'
+2019-05-14 04:47:00,406 - salon_board_utility - INFO - Password found:b'Majestic@2019'
+2019-05-14 04:47:09,081 - __main__ - INFO - Driver Initialized
+2019-05-14 04:47:17,591 - __main__ - INFO - Getting the login page
+2019-05-14 04:47:18,471 - __main__ - INFO - Clicked submit & trying to login
+2019-05-14 04:47:25,942 - __main__ - INFO - Unblocking Action activated for: bytearray(b'\xe5\xa4\xa7\xe5\x8e\x9f\xe3\x80\x80\xe3\x82\x81\xe3\x81\x90\xe3\x81\xbf') for date #20190610 , starting time 10:0 to end time 12:0
+2019-05-14 04:47:26,018 - __main__ - INFO - Delete Url formed https://salonboard.com/KLP/set/scheduleChange/?date=20190610&hour=10&minute=00&staffId=W000263987
+2019-05-14 04:47:26,290 - __main__ - INFO - Moved to delete url: https://salonboard.com/KLP/set/scheduleChange/?date=20190610&hour=10&minute=00&staffId=W000263987
+2019-05-14 04:47:42,084 - __main__ - INFO - Reservation Id ('7185',) unblocked successfully
+2019-05-14 06:31:25,656 - __main__ - INFO - Received Reservation Id (block staff for holiday):7119
+2019-05-14 06:31:25,678 - salon_board_utility - INFO - Username found:b'CC21324'
+2019-05-14 06:31:25,678 - salon_board_utility - INFO - Password found:b'Majestic@2019'
+2019-05-14 06:31:25,679 - __main__ - INFO - Got salon board data like password, username etc from datastore
+2019-05-14 06:31:39,470 - __main__ - INFO - Fetched Login URL, trying to login...
+2019-05-14 06:31:40,318 - __main__ - INFO - Logged Into Salon Board
+2019-05-14 06:31:47,996 - __main__ - INFO - Applying Holiday for 1 employee(s)
+2019-05-14 06:31:48,017 - __main__ - INFO - Staff holiday  Url formed https://salonboard.com/KLP/reserve/ext/extReserveRegist/?staffId=W000263987&date=20190528&rsvHour=10&rsvMinute=00
+2019-05-14 06:31:48,017 - __main__ - INFO - Marking Holiday for: 大原　めぐみ for date #20190528 , starting time 10:0 to end time 11:30
+2019-05-14 06:32:05,849 - __main__ - INFO - Reservation Id 7119 holiday marked successfully for employee id 49
+2019-06-09 10:30:07,114 - __main__ - INFO - Received Reservation Id (block staff for holiday):7184
+2019-06-09 10:30:07,676 - __main__ - INFO - Got salon board data like password, username etc from datastore
+2019-06-09 10:30:23,484 - __main__ - INFO - Fetched Login URL, trying to login...

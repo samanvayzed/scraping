@@ -1,0 +1,16 @@
+pip==19.1.1
+Flask==0.12.3 
+gunicorn==19.6.0	
+pandas== 0.20.3
+numpy== 1.14.5
+scipy==0.19.1
+scikit-learn==0.19.1
+flask-cors==3.0.7
+wtforms==2.2.1
+pickle-mixin==1.0.1
+selenium==3.141.0
+urllib3==1.24.3
+requests==2.21.0
+mysql-connector==2.2.9
+bs4==4.7.1
+pyvirtualdisplay==0.2.1

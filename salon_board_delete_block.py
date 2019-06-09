@@ -18,6 +18,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support.ui import Select
 import salon_board_utility
 
+
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.DEBUG)
 

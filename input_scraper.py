@@ -1,3 +1,4 @@
+
 # -*- coding: utf-8 -*-
 import sys
 import selenium
@@ -23,6 +24,8 @@ from pyvirtualdisplay import Display
 
 reservation_id = sys.argv[1]
 print(reservation_id)
+
+
 # reservation_id = 4504
 staff_name = ''
 reservation_date = ''

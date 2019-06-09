@@ -1,0 +1,10 @@
+version: "3"
+services:
+  app:
+    restart: always
+    build: . # Current directory!
+    command: "gcloud app deploy"
+    volumes:
+      - .:/code
+    ports:
+      - "9000:9000"
