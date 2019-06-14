@@ -23,7 +23,7 @@ from pyvirtualdisplay import Display
 
 
 reservation_id = sys.argv[1]
-print(reservation_id)
+# print(reservation_id)
 
 
 # reservation_id = 4504
@@ -100,6 +100,7 @@ def getSalonboarUser():
         sql_select_query = """select employee_ids,start_date, all_day, start_time, end_time, reservation_type, user_id, customer_id from reservations where id = %s"""
         cursor.execute(sql_select_query , (reservation_id,))
         record = cursor.fetchall()
+        # print(record)
         employee_id = int(record[0][0])
         x = str(record[0][1])
         all_day = str(record[0][2])
@@ -117,10 +118,10 @@ def getSalonboarUser():
         sql_select_query = """select name from customers where id = %s"""
         cursor.execute(sql_select_query , (customer_id,))
         record = cursor.fetchall()
-        print(record)
+        
         customer_name = record[0][0].decode("utf-8")
         # print(type(customer_name.decode("utf-8")))
-        print(customer_name)
+        # print(customer_name)
         # exit()
 
 
@@ -129,7 +130,7 @@ def getSalonboarUser():
         cursor.execute(sql_select_query , (employee_id,))
         record = cursor.fetchall()
         employee_name = record[0][0]
-        print(employee_name)
+        # print(employee_name)
 
         
 
@@ -188,17 +189,17 @@ options.add_argument('-headless')
 # driver = webdriver.Firefox(executable_path=r'/usr/local/bin/geckodriver')
 driver = webdriver.Firefox(executable_path=r'/usr/local/bin/geckodriver', options=options)
 
-print("before driver")
+# print("before driver")
 
 
 
 if __name__ == "__main__":
 	#driver = webdriver.Firefox()
 	#driver = webdriver.Remote(command_executor='http://localhost:4444/wd/hub', desired_capabilities=webdriver.DesiredCapabilities.FIREFOX)
-	print(type(int(reservation_type)))
+	# print(type(int(reservation_type)))
 	if (username != '' and password != '' and reservation_type == 1):
 		driver.get(url)
-		print("before login")
+		# print("before login")
 
 		uname = driver.find_element_by_name("userId")# ← find by element name
 		uname.send_keys(username) # ← enters the username in textbox
@@ -206,7 +207,7 @@ if __name__ == "__main__":
 		passw.send_keys(password)  #← enters the password in textbox
 		# Find the submit button using class name and click on it.
 		submit_button = driver.find_element_by_class_name("input_area_btn_01").click()
-		print("after login")
+		# print("after login")
 
 		WebDriverWait(driver, 100).until( lambda driver: driver.find_element_by_xpath('//*[@id="globalNavi"]/ul[2]/li[1]/a/img'))
 		time.sleep(2)
@@ -233,6 +234,7 @@ if __name__ == "__main__":
 
 		time.sleep(2)
 		select = Select(driver.find_element_by_name("staffId"))
+		# print(employee_name)
 		select.select_by_visible_text(employee_name.decode("utf-8"))
 
 		driver.find_element_by_xpath('//*[@id="jsiSchDateDummy"]').click()
@@ -255,36 +257,36 @@ if __name__ == "__main__":
 		select = Select(driver.find_element_by_name("rsvHour"))
 		select.select_by_visible_text(str(start_hours))
 
-		print("start_hours")
-		print(start_hours)
+		# print("start_hours")
+		# print(start_hours)
 
 		select = Select(driver.find_element_by_name("rsvMinute"))
 		if(start_minutes == 0):
 			select.select_by_visible_text('00')
 		else:
 			select.select_by_visible_text(str(start_minutes))
-		print("start_minutes")
-		print(start_minutes)
+		# print("start_minutes")
+		# print(start_minutes)
 
 		select = Select(driver.find_element_by_name("schEndHour"))
 		select.select_by_visible_text(str(end_hours))
-		print("end_hours")
-		print(end_hours)
+		# print("end_hours")
+		# print(end_hours)
 
 		select = Select(driver.find_element_by_name("schEndMinute"))
 		if(end_minutes == 0):
 			select.select_by_visible_text('00')
 		else:
 			select.select_by_visible_text(str(end_minutes))
-		print("end_minutes")
-		print(end_minutes)
+		# print("end_minutes")
+		# print(end_minutes)
 		# select = driver.find_element_by_name("schTitle")
 		# select.select_by_visible_text(customer_name)
 		schtitle = driver.find_element_by_name("schTitle")
-		print('start')
+		# print('start')
 
-		print(customer_name)
-		print('end')
+		# print(customer_name)
+		# print('end')
 		schtitle.send_keys(customer_name)
 
 		if(all_day == '1'):
@@ -295,10 +297,10 @@ if __name__ == "__main__":
 		time.sleep(2)
 		try:
 			alert = driver.switch_to.alert
-			print(alert.text)
+			# print(alert.text)
 			time.sleep(3)
 			alert.accept()
-			print('suc alert')
+			# print('suc alert')
 		except:
 			# print "no alert to accept"
 			print("No alert")
@@ -320,6 +322,6 @@ if __name__ == "__main__":
 		except:
 			print("Already Not blocked")	
 		
-	print('succ')
+	# print('succ')
 	driver.quit()
 exit()

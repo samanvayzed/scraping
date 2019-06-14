@@ -40,24 +40,25 @@ def salon_board_delete_block():
 
 @app.route("/inputscraper", methods=['POST'])
 def input_scraper():
-        
-        try:
-                jsonq = request.json
-                id = jsonq['reservation_id']
-                var = subprocess.run(["python3", "input_scraper.py", id], stdout=subprocess.PIPE)
-                var_str = str(var)
-                out = {"status":var_str,"id":id}
-                out_json = json.dumps(out)
+        jsonq = request.json
+        id = jsonq['reservation_id']
+        print(id)
+        var = subprocess.run(["python3", "input_scraper.py", id], stdout=subprocess.PIPE)
+        var_str = str(var)
+        #cur_dir = os.path.dirname('__file__')
+        #print("Current Dir: " + cur_dir)
 
-        except:
-                out = {"status":"error","id":id}
-                out_json = json.dumps(out)
-            
-        return out_json    
+        #fo  = open('hello.py',"r+")
+        #fo = open("/home/manishkumar_zed/scraping/hello.py", "r+")
+        #str = fo.read()
+        #print ("Read String is : ", str)
 
-
-
-             
+        #command = "cat /home/manishkumar_zed/scraping/input_scraper.py"
+        #print("Command:" + command)
+        #os.system(command)
+        out = {"status":var_str,"id":id}
+        out_json = json.dumps(out)
+        return out_json 
 
 if __name__ == '__main__':
-        app.run(debug=True)
+    app.run(host='0.0.0.0', port=5002)
